@@ -1,0 +1,15 @@
+C:\Users\Erazer\Desktop\Projekty\Labirynt\bin\Debug\net7.0\Labirynt.exe
+C:\Users\Erazer\Desktop\Projekty\Labirynt\bin\Debug\net7.0\Labirynt.deps.json
+C:\Users\Erazer\Desktop\Projekty\Labirynt\bin\Debug\net7.0\Labirynt.runtimeconfig.json
+C:\Users\Erazer\Desktop\Projekty\Labirynt\bin\Debug\net7.0\Labirynt.dll
+C:\Users\Erazer\Desktop\Projekty\Labirynt\bin\Debug\net7.0\Labirynt.pdb
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.csproj.AssemblyReference.cache
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.AssemblyInfoInputs.cache
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.AssemblyInfo.cs
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.csproj.CoreCompileInputs.cache
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.dll
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\refint\Labirynt.dll
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.pdb
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\Labirynt.genruntimeconfig.cache
+C:\Users\Erazer\Desktop\Projekty\Labirynt\obj\Debug\net7.0\ref\Labirynt.dll
